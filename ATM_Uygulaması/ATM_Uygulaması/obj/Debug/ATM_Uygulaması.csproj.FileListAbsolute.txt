@@ -1,0 +1,12 @@
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\bin\Debug\ATM_Uygulaması.exe.config
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\bin\Debug\ATM_Uygulaması.exe
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\bin\Debug\ATM_Uygulaması.pdb
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.csproj.AssemblyReference.cache
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.Properties.Resources.resources
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.csproj.GenerateResource.cache
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.exe
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.pdb
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.ATM_Uygulamasi.resources
+C:\Projects\ATM_Uygulaması\ATM_Uygulaması\obj\Debug\ATM_Uygulaması.csproj.ResolveComReference.cache
